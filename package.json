@@ -1,9 +1,9 @@
 {
-  "name": "firefox",
-  "title": "firefox",
+  "name": "serpfix-firefox",
+  "title": "SerpFix for Firefox",
   "id": "jid1-5PppOHreJAtSoQ",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Revert painful new SERP format closer to previous version",
+  "author": "Mick O'Hea",
   "license": "MPL 2.0",
   "version": "0.1"
 }
